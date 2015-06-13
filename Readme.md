@@ -1,3 +1,9 @@
+# Note
+
+This is fork from https://github.com/tj/node-blocked with the following changes:
+- ability for custom interval
+- interval defaults to 1s
+- call fn when difference > 0
 
 # blocked
 
